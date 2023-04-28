@@ -70,8 +70,6 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 - [Live Demo Link](update soon) 
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -160,7 +158,7 @@ If you like this project give me a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
- I would like to thank Angela Yu for her bootcamp course from Udemy.
+ I would like to thank whoever's code I used.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
